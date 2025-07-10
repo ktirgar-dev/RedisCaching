@@ -67,7 +67,7 @@ Next, we need to add the connection string in appsettings.json file. So, modify 
 ```bash
 {
     "ConnectionStrings": {
-        "DefaultConnection": "Server=DESKTOP-FM1QOFA;Database=ProductsDB;Trusted_Connection=True;TrustServerCertificate=True;"
+        "DefaultConnection": "Server=test;Database=ProductsDB;Trusted_Connection=True;TrustServerCertificate=True;"
     },
     "Logging": {
         "LogLevel": {
