@@ -37,7 +37,7 @@ Let us proceed and see how we can set up Redis on a Windows 10/11 machine:
 Please visit the following GitHub URL to download a Windows-compatible version of Redis supported by Microsoft: 
 https://github.com/microsoftarchive/redis/releases/tag/win-3.0.504
 
-Once you visit the above URL, it will open the below page. From this page, download the Redis-x64-3.0.504.zip file from the GitHub Repo on your machine 
+Once you visit the above URL. From this page, download the Redis-x64-3.0.504.zip file from the GitHub Repo on your machine. 
 
 # Basic Redis Commands: 
 
